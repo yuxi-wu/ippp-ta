@@ -1,1 +1,1 @@
-# Notes, examples for TA sessions for Harris programming class.
+## Notes, examples for TA sessions for Harris programming class.
